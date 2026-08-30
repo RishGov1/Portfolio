@@ -53,7 +53,7 @@ export default function Hero() {
         <div className="hero-reveal inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full border border-indigo-500/30 bg-indigo-500/10 text-indigo-400 text-xs font-mono mb-6 backdrop-blur-md">
           <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping" />
           <Sparkles className="w-3.5 h-3.5 text-cyan-400" />
-          <span>Seeking AI & CS Summer 2026 Opportunities</span>
+          <span>Seeking AI & CS Summer 2027 Opportunities</span>
         </div>
 
         {/* Headline */}
